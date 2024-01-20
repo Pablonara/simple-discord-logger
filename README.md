@@ -1,5 +1,5 @@
 # simple-discord-logger
-Simple discord bot to log deleted messages. Attatchments included
+Simple discord bot to log deleted messages. Attachments included.
 
 ### Requirements
 - python
